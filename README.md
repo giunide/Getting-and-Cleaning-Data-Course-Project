@@ -16,4 +16,4 @@ The R script __run_analysis.txt__ can be used to recreate the data set. It retri
 - Read the activity_labels file in order to use descriptive activity names to name the activities in the data set.
 - Appropriately label the data set with descriptive variable names.
 - Create a second, independent tidy set with the average of each variable for each activity and each subject.
-- Write the data set to the tidy_data.txt file.
+- Write the data set to the __tidy_data.txt__ file.
